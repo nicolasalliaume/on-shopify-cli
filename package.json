@@ -1,0 +1,25 @@
+{
+	"version": "1.0.0",
+	"name": "on-shopify-cli",
+	"description": "Command line tools for Shopify",
+	"author": "Nicolas Alliaume <nicolas@on-lab.com>",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nicolasalliaume/shopify-cli"
+	},
+	"bin": {
+		"shopify-cli": "./index.js"
+	},
+	"dependencies": {
+		"on-shopify-utils": "https://github.com/nicolasalliaume/on-shopify-utils"
+	},
+	"keywords": [
+		"shopify",
+		"cli",
+		"tool",
+		"node",
+		"nodejs",
+		"command line"
+	]
+}
