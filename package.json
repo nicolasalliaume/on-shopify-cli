@@ -6,7 +6,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nicolasalliaume/shopify-cli"
+		"url": "https://github.com/nicolasalliaume/on-shopify-cli"
 	},
 	"bin": {
 		"shopify-cli": "./index.js"
