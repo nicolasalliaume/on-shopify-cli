@@ -1,6 +1,6 @@
 const colors = require( 'colors' );
 const help = require( './help' );
-const parseCommand = require( './parse-command' );
+const parseCommand = require( 'js-command-parser' );
 const executeCommand = require( './execute-command' );
 
 module.exports = async function() {

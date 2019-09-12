@@ -1103,6 +1103,10 @@ isurl@^1.0.0-alpha5:
     has-to-string-tag-x "^1.2.0"
     is-object "^1.0.1"
 
+"js-command-parser@https://github.com/nicolasalliaume/js-command-parser":
+  version "1.0.0"
+  resolved "https://github.com/nicolasalliaume/js-command-parser#fb60970be5c94d2b01af55444d01f901e7df2aee"
+
 json-buffer@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/json-buffer/-/json-buffer-3.0.0.tgz#5b1f397afc75d677bde8bcfc0e47e1f9a3d9a898"
